@@ -1,6 +1,6 @@
 **All Walls Lead to Zombies**
 
-**Team Members:** Spencer Wu + Landon Quan + David Zhao
+**Team Members:** Spencer Wu + David Zhao
 
 **How would you pitch your game in one line?**
 It's a battle between two players to see who can outlast a mob of zombies using protective walls. 
